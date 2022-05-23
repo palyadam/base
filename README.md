@@ -47,7 +47,7 @@ Setting the reference speed of the train works in the following way.
 1. However, it reaches the speed limit so in the next step it is not incremented even though the joystick still has a positive value.
 1. Later, the joystick is set to a negative position for one time unit, making the reference speed to decrease as well.
 
-#Heading level 2
-***NagyonFontos
-[Google](https://google.com).
+# Heading level 2    return
+*** NagyonFontos    
+[Google](https://google.com).    return
 <myemail@gmail.com>
